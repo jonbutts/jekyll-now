@@ -1,18 +1,27 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Jon Butts
+permalink: /index/
 ---
 
-## Jon Butts
 UIC Medical Student.
 Aspiring Surgeon, Researcher, and Culinary Medicine Enthusiast.
 
 ## Work in progress
 
-Stay tuned for more developmentson apps and other projects.
+Stay tuned for more developments on apps and other projects.
 
-![text](/images/chart.png)
+{:.center}
+![QR_link](/images/chart.png)
+
+{:.center}
+QR code for this website
+
+<style>
+.center {
+  text-align: center;
+}
+</style>
 
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
@@ -24,7 +33,7 @@ Stay tuned for more developmentson apps and other projects.
 <div id="mc_embed_signup">
 <form action="//uiccom2017.us10.list-manage.com/subscribe/post?u=48ff71a61b00392818bf7df33&amp;id=4d51f02887" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
-	<h2>Subscribe to our mailing list</h2>
+	<h2>Subscribe to my mailing list</h2>
 <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
 <div class="mc-field-group">
 	<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
