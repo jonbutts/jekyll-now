@@ -9,7 +9,7 @@ Aspiring Surgeon, Researcher, and Culinary Medicine Enthusiast.
 
 ## Work in progress
 
-Stay tuned for more developmentson apps and other projects.
+Stay tuned for more developments on apps and other projects.
 
 {:.center}
 ![QR_link](/images/chart.png)
