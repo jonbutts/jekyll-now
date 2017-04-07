@@ -9,7 +9,7 @@ name: Jon Butts
 description: Medical student, software developer, culinary medicine enthusiast
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: /images/chart.png
 
 #
 # Flags below are optional
@@ -27,7 +27,7 @@ footer-links:
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: jonbuttsmd
-  
+
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
